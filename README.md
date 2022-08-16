@@ -1,1 +1,2 @@
 # BookStoreWeb
+This is a ASP.NET Web application built using MVC design architecture. The program performs CRUD operations on an external MS SQL database. Front-end is built using Razor Views and Tag Helpers which where introduced in .NET Core 6. The program also has Code-First Migration to create database and tables using EntityFramworkCore. Server-side and Client-side validation are also included.
